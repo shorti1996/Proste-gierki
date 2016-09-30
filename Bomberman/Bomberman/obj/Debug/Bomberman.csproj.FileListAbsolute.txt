@@ -1,0 +1,15 @@
+c:\users\wojtekli\documents\visual studio 2015\Projects\Bomberman\Bomberman\bin\Debug\Bomberman.exe.config
+c:\users\wojtekli\documents\visual studio 2015\Projects\Bomberman\Bomberman\obj\Debug\Bomberman.csprojResolveAssemblyReference.cache
+c:\users\wojtekli\documents\visual studio 2015\Projects\Bomberman\Bomberman\obj\Debug\Bomberman.FormMain.resources
+c:\users\wojtekli\documents\visual studio 2015\Projects\Bomberman\Bomberman\obj\Debug\Bomberman.Properties.Resources.resources
+c:\users\wojtekli\documents\visual studio 2015\Projects\Bomberman\Bomberman\obj\Debug\Bomberman.csproj.GenerateResource.Cache
+c:\users\wojtekli\documents\visual studio 2015\Projects\Bomberman\Bomberman\bin\Debug\Bomberman.exe
+c:\users\wojtekli\documents\visual studio 2015\Projects\Bomberman\Bomberman\bin\Debug\Bomberman.pdb
+c:\users\wojtekli\documents\visual studio 2015\Projects\Bomberman\Bomberman\obj\Debug\Bomberman.exe
+c:\users\wojtekli\documents\visual studio 2015\Projects\Bomberman\Bomberman\obj\Debug\Bomberman.pdb
+C:\Users\WojtekLi\Documents\Visual Studio 2015\Projects\Bomberman\Bomberman\obj\Debug\Bomberman.FormTutorial.resources
+C:\Users\WojtekLi\Documents\Visual Studio 2015\Projects\Bomberman\Bomberman\obj\Debug\Bomberman.FormStart.resources
+C:\Users\WojtekLi\Documents\Visual Studio 2015\Projects\Bomberman\Bomberman\obj\Debug\Bomberman.FormGameOver.resources
+C:\Users\WojtekLi\Documents\Visual Studio 2015\Projects\zad 2\Bomberman\bin\Debug\Bomberman.exe.config
+C:\Users\WojtekLi\Documents\Visual Studio 2015\Projects\zad 2\Bomberman\obj\Debug\Bomberman.exe
+C:\Users\WojtekLi\Documents\Visual Studio 2015\Projects\zad 2\Bomberman\obj\Debug\Bomberman.pdb
